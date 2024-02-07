@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LH/UzIHx5T0wcl28+sNDeW7XhigtQYlqH9Tu3CqMlsVvt8Jum1LSAxye/sop+FLiY74ldJNdduy8u6xujc2/eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Farid\\Desktop\\homewotk\\c#\\File-Dictionary-Seralization\\File-Dictionary-Seralization\\File-Dictionary-Seralization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farid\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
